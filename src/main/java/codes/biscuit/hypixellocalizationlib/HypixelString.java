@@ -1,3 +1,5 @@
+package codes.biscuit.hypixellocalizationlib;
+
 public enum HypixelString {
 
 	// Scoreboard
